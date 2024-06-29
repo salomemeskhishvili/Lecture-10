@@ -12,7 +12,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 ul {
@@ -61,7 +61,7 @@ li a {
   align-items: center;
 }
 .textwrapper {
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 .fa-bars {
