@@ -1,0 +1,11 @@
+@media (max-width: 550px) {
+  .fa-bars {
+    display: block;
+  }
+  nav {
+    display: none;
+  }
+  /* .textwrapper h1 {
+    font-size: 55px;
+  } */
+}
